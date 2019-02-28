@@ -11,3 +11,5 @@ the port number the ringmasters listens on.
 
 You can run this code in the same VM with different tabs, or run it from different computers as well.
 Have fun!
+
+Note: I am aware of the bad abstraction with the code. This was one of the first multi process codes I have written, so I was too caught up in the socket connections that I did not pay that much care in abstraction.
